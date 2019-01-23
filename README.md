@@ -13,7 +13,7 @@ This code is an implementation of a fast algorithm which solves constrained asso
 
 If you use this code, please cite: 
 
-Tian Xie, and Dongdong Ge. 2017. A Tractable Discrete Fractional Programming: Application to Constrained Assortment Optimization. 
+Tian Xie, and Dongdong Ge. 2018. A Tractable Discrete Fractional Programming: Application to Constrained Assortment Optimization. Journal of Combinatorial Optimization 36(2): 400-415.
 
 ### How to use it?
 
